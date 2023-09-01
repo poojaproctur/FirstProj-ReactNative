@@ -1,1 +1,2 @@
 # FirstProj-ReactNative
+Author - pooja
